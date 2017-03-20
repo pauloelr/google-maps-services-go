@@ -99,7 +99,7 @@ package main
 import (
 	"log"
 
-	"googlemaps.github.io/maps"
+	"github.com/pauloelr/google-maps-services-go"
 	"github.com/kr/pretty"
 	"golang.org/x/net/context"
 )
@@ -136,7 +136,7 @@ package main
 import (
 	"log"
 
-	"googlemaps.github.io/maps"
+	"github.com/pauloelr/google-maps-services-go"
 	"github.com/kr/pretty"
 	"golang.org/x/net/context"
 )
